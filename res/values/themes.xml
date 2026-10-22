@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.DangKyTuongTac" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/accent_green</item>
+        <item name="colorPrimaryVariant">@color/bg_dark</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="colorOnPrimary">@color/bg_dark</item>
+        <item name="colorError">@color/error_red</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

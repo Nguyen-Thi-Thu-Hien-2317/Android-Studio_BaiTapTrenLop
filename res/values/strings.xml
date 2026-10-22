@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Đăng ký tương tác</string>
+    <string name="form_title">ĐĂNG KÝ TÀI KHOẢN</string>
+    <string name="form_subtitle">Nhập đầy đủ thông tin sinh viên</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_student_id">Mã sinh viên (MSV)</string>
+    <string name="hint_class">Lớp</string>
+    <string name="btn_register">ĐĂNG KÝ NGAY</string>
+    <string name="detail_title">CHI TIẾT ĐĂNG KÝ</string>
+    <string name="detail_subtitle">Thông tin bạn đã đăng ký</string>
+    <string name="btn_back">QUAY LẠI ĐĂNG KÝ</string>
+    <string name="register_success">Đăng ký thành công!</string>
+    <string name="form_invalid">Vui lòng sửa các trường báo lỗi.</string>
+    <string name="missing_data">Chưa nhận được đầy đủ thông tin.</string>
+    <string name="error_name_required">Vui lòng nhập họ tên.</string>
+    <string name="error_name_invalid">Họ tên phải có từ 2 ký tự và không chứa chữ số.</string>
+    <string name="error_email_required">Vui lòng nhập email.</string>
+    <string name="error_email_invalid">Email không hợp lệ.</string>
+    <string name="error_phone_required">Vui lòng nhập số điện thoại.</string>
+    <string name="error_phone_invalid">SĐT phải có 10 số, bắt đầu bằng 03/05/07/08/09.</string>
+    <string name="error_id_required">Vui lòng nhập mã sinh viên.</string>
+    <string name="error_id_invalid">MSV phải có từ 8 đến 15 chữ số.</string>
+    <string name="error_class_required">Vui lòng nhập lớp.</string>
+    <string name="error_class_invalid">Lớp phải có 2–20 ký tự hợp lệ (ví dụ: 24T3).</string>
+</resources>
