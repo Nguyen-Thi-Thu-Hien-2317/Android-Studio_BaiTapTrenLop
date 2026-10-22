@@ -1,0 +1,10 @@
+<resources>
+    <color name="bg_dark">#071723</color>
+    <color name="bg_dark_end">#0B2839</color>
+    <color name="panel">#112838</color>
+    <color name="field_background">#132C3B</color>
+    <color name="accent_green">#20D7A2</color>
+    <color name="text_white">#F6FBFF</color>
+    <color name="text_muted">#A8BAC9</color>
+    <color name="error_red">#FF6580</color>
+</resources>
