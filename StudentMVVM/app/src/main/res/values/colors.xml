@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_900">#065F56</color>
+    <color name="teal_700">#087F74</color>
+    <color name="teal_500">#09A18E</color>
+    <color name="teal_100">#DEF8F1</color>
+    <color name="navy_900">#17304A</color>
+    <color name="slate_600">#65778D</color>
+    <color name="border">#E1EAF2</color>
+    <color name="page_background">#F6FAFD</color>
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#DD4052</color>
+    <color name="light_error">#FFF0F2</color>
+    <color name="blue_50">#EEF5FF</color>
+</resources>
