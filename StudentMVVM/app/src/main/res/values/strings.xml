@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StudentMVVM • Quản lý sinh viên</string>
+    <string name="students_title">Quản lý sinh viên</string>
+    <string name="sync_cloud">Đồng bộ REST API</string>
+    <string name="add_student">Thêm sinh viên</string>
+    <string name="delete_student">Xóa sinh viên</string>
+    <string name="empty_message">Chưa có sinh viên nào</string>
+</resources>
